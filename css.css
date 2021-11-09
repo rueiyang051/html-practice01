@@ -1,6 +1,30 @@
 * {
     margin: 0;
     padding: 0;
-    list-style: none;
-    box-sizing: border-box;
+    list-style: nono;
+    box-sizing: border-box
 }
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.img-start {
+    border: 2px solid rebeccapurple;
+}
+
+#img-master {
+    border: 3px dashed green;
+}
+
+.relative {
+    background: aqua;
+    width: 500px;
+    height: 500px;
+}
+
+.absolute {
+    background: red;
+    width: 100px;
+    height: 100px;
